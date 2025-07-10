@@ -40,7 +40,7 @@ const Nav = () => {
                     className='w-20 h-20'
 
                 />
-                <p className='text-blue-900 text-4xl font-bold'>Fit fuel</p>
+                <p className='text-blue-900 text-4xl font-bold'>FITFUEL</p>
             </Link>
 
             <div className='flex item-center gap-8 '>
